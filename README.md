@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Pranish
 
-I enjoy building things, breaking things, and occasionally fixing them. Interested in web development, game development, AI, and whatever catches my curiosity.
+I enjoy building things, breaking things, and occasionally fixing them. Interested in web development, software development, game development, AI, and whatever catches my curiosity.
 
 ## Currently Working On
 * Building projects that seemed easier before I started them
