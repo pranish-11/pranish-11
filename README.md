@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there 👋, I'm Pranish
 
-<!--
-**pranish-11/pranish-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy building things, breaking things, and occasionally fixing them. Interested in web development, game development, AI, and whatever catches my curiosity.
 
-Here are some ideas to get you started:
+## Currently Working On
+* Building projects that seemed easier before I started them
+* Learning by shipping instead of endlessly watching tutorials
+* Exploring full-stack development, AI, and game development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Fun Fact
+Most of my projects start with:
+"How hard can it be?"
+
+And ends with:
+"Well, at least I learned something."
